@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrey
-- 👀 I’m interested in data analyst, python, sql, vba
-- 🌱 I’m currently learning data analyst
-- 💞️ I’m looking to collaborate on data analyst, vba
+- 👀 I’m interested in Python, SQL
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me ya194287@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:  I once turned oil data into gold with a single SQL query!  
