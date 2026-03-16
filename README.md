@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Andrey
-- 👀 I’m interested in data science
-- 📫 How to reach me ya194287@gmail.com
 
 
 
